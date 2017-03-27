@@ -1,2 +1,5 @@
 # hello-world
-Just another responsitory
+
+Hello every one!
+
+What am I doing there?
